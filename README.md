@@ -6,3 +6,4 @@
 	3. Climbing Stairs [70]
 	4. Maximum Subarray [53]
 	5. House Robber [198]
+	6. Range Sum Query - Immutable [303]
