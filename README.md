@@ -7,3 +7,4 @@
 	4. Maximum Subarray [53]
 	5. House Robber [198]
 	6. Range Sum Query - Immutable [303]
+	7. Counting Bits [338]
