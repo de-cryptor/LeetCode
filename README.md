@@ -11,3 +11,4 @@
 	8. Palindromic Substrings [647]
 	9. Maximum Length of Pair Chain [646]
 	10. Interger Break [343]
+	11. Count Numbers with Unique Digits [357]
