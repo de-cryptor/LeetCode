@@ -13,3 +13,4 @@
 	10. Interger Break [343]
 	11. Count Numbers with Unique Digits [357]
 	12. 2-Key KeyBoard [650]
+	13. Is Subsequence [392]
