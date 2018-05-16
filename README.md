@@ -15,3 +15,4 @@
 	12. 2-Key KeyBoard [650]
 	13. Is Subsequence [392]
 	14. Unique Paths [62]
+	15. Longest Palindromic Subsequence [516]
