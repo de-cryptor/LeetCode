@@ -19,3 +19,4 @@
 	16. Combination Sum IV [377]
 	17. Minimum Path Sum [64]
 	18. Longest Increasing Subsequence [300]
+	19. Maximum Length of Repeated Subarray [718]
