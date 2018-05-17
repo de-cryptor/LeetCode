@@ -18,3 +18,4 @@
 	15. Longest Palindromic Subsequence [516]
 	16. Combination Sum IV [377]
 	17. Minimum Path Sum [64]
+	18. Longest Increasing Subsequence [300]
