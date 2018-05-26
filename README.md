@@ -30,3 +30,4 @@
 	6. Sum Without + Operator [371]
 	7. Majority Element [169]
 	8. Best Time to Buy and Sell Stock II [122]
+	9. Valid Anagram [242]
