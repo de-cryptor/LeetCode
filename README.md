@@ -24,3 +24,4 @@
 ### Top Interview Questions
 	1. Reverse String [344]
 	2. Single Number [136]
+	3. Fizz Buzz [412]
