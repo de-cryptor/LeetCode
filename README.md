@@ -28,3 +28,4 @@
 	4. Maximum Depth of Binary Tree [104]
 	5. Move Zeros [283]
 	6. Sum Without + Operator [371]
+	7. Majority Element [169]
