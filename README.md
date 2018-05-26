@@ -26,3 +26,4 @@
 	2. Single Number [136]
 	3. Fizz Buzz [412]
 	4. Maximum Depth of Binary Tree [104]
+	5. Move Zeros [283]
