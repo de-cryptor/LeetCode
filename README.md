@@ -36,4 +36,5 @@
 	12. Roman to Integer [13]
 	13. Missing Number [268]
 	14. Power of three [326]
+	15. Two Sum [1]
 
