@@ -33,3 +33,5 @@
 	9. Valid Anagram [242]
 	10. Contains Duplicate [217]
 	11. First Unique Character [387]
+	12. Roman to Integer [13]
+
