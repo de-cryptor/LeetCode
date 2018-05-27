@@ -31,3 +31,4 @@
 	7. Majority Element [169]
 	8. Best Time to Buy and Sell Stock II [122]
 	9. Valid Anagram [242]
+	10. Contains Duplicate [217]
