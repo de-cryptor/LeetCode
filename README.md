@@ -37,4 +37,5 @@
 	13. Missing Number [268]
 	14. Power of three [326]
 	15. Two Sum [1]
+	16. Number of 1 bits [191]
 
