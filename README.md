@@ -45,4 +45,5 @@
 	21. Excel Sheet Column Number [171]
 	22. Count Primes [204]
 	23. Valid Palindrome [125]
+	24. Sqrt(X) [69]
 
