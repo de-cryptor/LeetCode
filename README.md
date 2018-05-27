@@ -46,4 +46,5 @@
 	22. Count Primes [204]
 	23. Valid Palindrome [125]
 	24. Sqrt(X) [69]
+	25. Reverse Integer [7]
 
