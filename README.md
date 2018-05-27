@@ -40,4 +40,5 @@
 	16. Number of 1 bits [191]
 	17. Plus One [66]
 	18. Factorial Trailing Zeros [172]
+	19. Valid Parenthesis [20]
 
