@@ -63,4 +63,4 @@
 	39. Sort Colors [75]
 	40. Valid Sudoku [36]
 	41. Perfect Squares [279]
-
+	42. Game of Life [289]
