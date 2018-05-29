@@ -60,4 +60,5 @@
 	36. Pow(x,n) [50]
 	37. Coin Change [322]
 	38. Kth Largest [215]
+	39. Sort Colors [75]
 
