@@ -55,4 +55,5 @@
 	31. Generate Parentheses [22]
 	32. Rotate Image [48]
 	33. Happy Number [202]
+	34. Pascal's Triangle [118]
 
