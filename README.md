@@ -56,4 +56,5 @@
 	32. Rotate Image [48]
 	33. Happy Number [202]
 	34. Pascal's Triangle [118]
+	35. Count and Say [38]
 
