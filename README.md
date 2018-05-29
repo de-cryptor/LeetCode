@@ -62,4 +62,5 @@
 	38. Kth Largest [215]
 	39. Sort Colors [75]
 	40. Valid Sudoku [36]
+	41. Perfect Squares [279]
 
