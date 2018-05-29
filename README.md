@@ -54,4 +54,5 @@
 	30. Permutations [46]
 	31. Generate Parentheses [22]
 	32. Rotate Image [48]
+	33. Happy Number [202]
 
