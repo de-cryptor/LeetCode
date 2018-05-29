@@ -53,4 +53,5 @@
 	29. Subsets [78]
 	30. Permutations [46]
 	31. Generate Parentheses [22]
+	32. Rotate Image [48]
 
