@@ -57,4 +57,5 @@
 	33. Happy Number [202]
 	34. Pascal's Triangle [118]
 	35. Count and Say [38]
+	36. Pow(x,n) [50]
 
