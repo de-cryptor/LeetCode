@@ -65,4 +65,5 @@
 	41. Perfect Squares [279]
 	42. Game of Life [289]
 	43. Container With Most Water [11]
+	44. Find the Duplicate Number [287]
 
