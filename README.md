@@ -52,4 +52,5 @@
 	28. Number of Islands [200]
 	29. Subsets [78]
 	30. Permutations [46]
+	31. Generate Parentheses [22]
 
