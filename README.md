@@ -70,6 +70,7 @@
 	46. Implement StrStr [28]
 	47. Rotate Array [189]
 	48. Top k Frequent Elements [347]
+	49. Binary Tree Inorder Traversal [94]
 
 ### Array
 	1. Image Smoother [661]
