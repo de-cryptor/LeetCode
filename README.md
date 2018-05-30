@@ -75,6 +75,7 @@
 	51. Remove Duplicates from Sorted Array [26]
 	52. 4Sum II [454]
 	53. Group Anagrams [49]
+	54. Word Break [139]
 
 ### Array
 	1. Image Smoother [661]
