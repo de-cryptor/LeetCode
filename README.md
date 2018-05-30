@@ -69,6 +69,7 @@
 	45. Merge Sorted Array [88]
 	46. Implement StrStr [28]
 	47. Rotate Array [189]
+	48. Top k Frequent Elements [347]
 
 ### Array
 	1. Image Smoother [661]
