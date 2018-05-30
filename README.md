@@ -67,6 +67,7 @@
 	43. Container With Most Water [11]
 	44. Find the Duplicate Number [287]
 	45. Merge Sorted Array [88]
+	46. Implement StrStr [28]
 
 ### Array
 	1. Image Smoother [661]
