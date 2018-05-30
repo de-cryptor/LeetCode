@@ -68,6 +68,7 @@
 	44. Find the Duplicate Number [287]
 	45. Merge Sorted Array [88]
 	46. Implement StrStr [28]
+	47. Rotate Array [189]
 
 ### Array
 	1. Image Smoother [661]
