@@ -90,3 +90,4 @@
 	1. Judge Route Circle [657]
 	2. Reverse Words in a String III [557]
 	3. Longest Uncommon Subsequence I [521]
+	4. Detect Capital [520]
