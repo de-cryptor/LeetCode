@@ -95,3 +95,6 @@
 	6. Reverse Vowels of a String [345]
 	7. Reverse String II [541]
 	8. Student Attendance Record I [551]
+
+### Math
+	1. Self Dividing Number [728]
