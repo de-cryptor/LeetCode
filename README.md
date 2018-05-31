@@ -92,3 +92,4 @@
 	3. Longest Uncommon Subsequence I [521]
 	4. Detect Capital [520]
 	5. Rotated Digits [788]
+	6. Reverse Vowels of a String [345]
