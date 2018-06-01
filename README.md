@@ -91,6 +91,7 @@
 	7. Reshape the Matrix [566]
 	8. Array Partition I [561]
 	9. Maximum Area of Island [695]
+	10. Maximum Consecutive Ones [485]
 
 ### String
 	1. Judge Route Circle [657]
