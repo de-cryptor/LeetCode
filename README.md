@@ -80,6 +80,7 @@
 	56. Letter Combinations of a Phone Number [17]
 	57. Set Matrix Zeros [73]
 	58. Merge Intervals [56]
+	59. Evaluate Reverse Polish Notation [150]
 
 ### Array
 	1. Image Smoother [661]
