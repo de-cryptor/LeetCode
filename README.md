@@ -78,6 +78,7 @@
 	54. Word Break [139]
 	55. Search for a Range [34]
 	56. Letter Combinations of a Phone Number [17]
+	57. Set Matrix Zeros [73]
 
 ### Array
 	1. Image Smoother [661]
