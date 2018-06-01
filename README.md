@@ -88,6 +88,8 @@
 	4. Largest Number at least Twice [747]
 	5. Find Pivot Index [724]
 	6. Single Number II [137]
+	7. Reshape the Matrix [566]
+	8. Array Partition I [561]
 
 ### String
 	1. Judge Route Circle [657]
