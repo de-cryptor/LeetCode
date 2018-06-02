@@ -96,6 +96,7 @@
 	11. Toeplitz Matrix [766]
 	12. Find All Numbers Disappeared in an Array [448]
 	13. Positions of Large Groups [830]
+	14. Two Sum II - Input array is sorted [167]
 
 ### String
 	1. Judge Route Circle [657]
