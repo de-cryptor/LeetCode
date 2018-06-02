@@ -117,3 +117,4 @@
 	2. Largest Triangle Area [812]
 	3. Minimum Moves to Equal Array Elements [453]
 	4. Rectangle Overlap [836]
+	5. Palindrome Number [9]
