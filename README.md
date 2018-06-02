@@ -93,6 +93,7 @@
 	8. Array Partition I [561]
 	9. Maximum Area of Island [695]
 	10. Maximum Consecutive Ones [485]
+	11. Toeplitz Matrix [766]
 
 ### String
 	1. Judge Route Circle [657]
