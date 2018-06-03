@@ -21,6 +21,7 @@
 	18. Longest Increasing Subsequence [300]
 	19. Maximum Length of Repeated Subarray [718]
 	20. Number of Longest Increasing Subsequence [673]
+	21. Target Sum [494]
 
 ### Top Interview Questions
 	1. Reverse String [344]
