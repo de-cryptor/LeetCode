@@ -126,3 +126,4 @@
 	6. Perfect Number [507]
 	7. Ugly Number [263]
 	8. Maximum Product of Three Numbers [628]
+	9. Rectangle Area [223]
