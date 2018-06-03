@@ -118,3 +118,4 @@
 	3. Minimum Moves to Equal Array Elements [453]
 	4. Rectangle Overlap [836]
 	5. Palindrome Number [9]
+	6. Perfect Number [507]
