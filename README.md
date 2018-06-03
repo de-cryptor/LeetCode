@@ -125,3 +125,4 @@
 	5. Palindrome Number [9]
 	6. Perfect Number [507]
 	7. Ugly Number [263]
+	8. Maximum Product of Three Numbers [628]
