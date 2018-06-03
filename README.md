@@ -111,6 +111,7 @@
 	9. Goat Latin [824]
 	10. Most Common Word [819]
 	11. Ransom Note [383]
+	12. String Compression [443]
 
 ### Math
 	1. Self Dividing Number [728]
