@@ -114,6 +114,7 @@
 	11. Ransom Note [383]
 	12. String Compression [443]
 	13. Number of Segments in a String [434]
+	14. Length of Last Word [58]
 
 ### Math
 	1. Self Dividing Number [728]
