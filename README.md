@@ -127,3 +127,4 @@
 	7. Ugly Number [263]
 	8. Maximum Product of Three Numbers [628]
 	9. Rectangle Area [223]
+	10. Valid Perfect Square [367]
