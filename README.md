@@ -119,6 +119,7 @@
 	13. Number of Segments in a String [434]
 	14. Length of Last Word [58]
 	15. Valid Palindrome II [680]
+	16. Count Binary Substrings [696]
 
 ### Math
 	1. Self Dividing Number [728]
