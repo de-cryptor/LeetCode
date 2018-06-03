@@ -99,6 +99,7 @@
 	14. Two Sum II - Input array is sorted [167]
 	15. Longest Continuous Increasing Subsequence [674]
 	16. Set Mismatch [645]
+	17. Degree of an Array [697]
 
 ### String
 	1. Judge Route Circle [657]
