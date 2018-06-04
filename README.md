@@ -109,6 +109,7 @@
 	22. Search Insert Position [35]
 	23. Third Maximum Number [414]
 	24. K-diff Pairs in an Array [532]
+	25. Find All Duplicates in an Array [442]
 
 ### String
 	1. Judge Route Circle [657]
