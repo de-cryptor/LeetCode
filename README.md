@@ -106,6 +106,7 @@
 	19. Can Place Flowers [605]
 	20. Magic Squares In Grid [840]
 	21. Contains Duplicates II [219]
+	22. Search Insert Position [35]
 
 ### String
 	1. Judge Route Circle [657]
