@@ -105,6 +105,7 @@
 	18. Maximum Average Subarray I [643]
 	19. Can Place Flowers [605]
 	20. Magic Squares In Grid [840]
+	21. Contains Duplicates II [219]
 
 ### String
 	1. Judge Route Circle [657]
