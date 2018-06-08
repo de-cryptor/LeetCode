@@ -23,6 +23,7 @@
 	20. Number of Longest Increasing Subsequence [673]
 	21. Target Sum [494]
 	22. Ones and Zeros [474]
+	23. Largest Plus Sign [764]
 
 ### Top Interview Questions
 	1. Reverse String [344]
