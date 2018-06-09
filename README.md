@@ -24,6 +24,7 @@
 	21. Target Sum [494]
 	22. Ones and Zeros [474]
 	23. Largest Plus Sign [764]
+	24. Partition Equal Subset Sum [416]
 
 ### Top Interview Questions
 	1. Reverse String [344]
