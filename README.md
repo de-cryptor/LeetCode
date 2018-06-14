@@ -149,4 +149,4 @@
 	1. Baseball Game [682]
 	2. Next Greater Element I [496]
 	3. Backspace String Compare [844]
-	
+	4. Daily Tempratures [739]
