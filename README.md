@@ -144,3 +144,6 @@
 	8. Maximum Product of Three Numbers [628]
 	9. Rectangle Area [223]
 	10. Valid Perfect Square [367]
+
+### Stack 
+	1. Baseball Game [682]
