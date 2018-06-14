@@ -86,6 +86,7 @@
 	57. Set Matrix Zeros [73]
 	58. Merge Intervals [56]
 	59. Evaluate Reverse Polish Notation [150]
+	60. Increasing Triplet Subsequence [334]
 
 ### Array
 	1. Image Smoother [661]
