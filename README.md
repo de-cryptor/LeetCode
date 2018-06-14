@@ -153,3 +153,4 @@
 	5. Implement Stack using Queues [225]
 	6. Implement Queue using Stacks [232]
 	7. Min Stack [155]
+	8. Longest Valid Parentheses [32]
