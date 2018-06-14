@@ -150,3 +150,4 @@
 	2. Next Greater Element I [496]
 	3. Backspace String Compare [844]
 	4. Daily Tempratures [739]
+	5. Implement Stack using Queues [225]
