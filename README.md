@@ -87,6 +87,8 @@
 	58. Merge Intervals [56]
 	59. Evaluate Reverse Polish Notation [150]
 	60. Increasing Triplet Subsequence [334]
+	61. Trapping Rain Water [42]
+
 
 ### Array
 	1. Image Smoother [661]
