@@ -93,6 +93,7 @@
 	64. Jump Game [55]
 	65. Word Search [79]
 	66. Longest Palindromic Substring [5]
+	67. Maximum Product Subarray [152]
 
 
 ### Array
