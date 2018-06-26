@@ -95,6 +95,7 @@
 	66. Longest Palindromic Substring [5]
 	67. Maximum Product Subarray [152]
 	68. Search a 2D Matrix II [240]
+	69. Fraction to Recurring Decimal [166]
 
 
 ### Array
