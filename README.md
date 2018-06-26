@@ -92,6 +92,7 @@
 	63. 3 Sum [15]
 	64. Jump Game [55]
 	65. Word Search [79]
+	66. Longest Palindromic Substring [5]
 
 
 ### Array
